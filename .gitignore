@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.DS_Store
+.idea/
+.vscode/
+# runtime data (keep folder via .gitkeep)
+data/*
+!data/.gitkeep
